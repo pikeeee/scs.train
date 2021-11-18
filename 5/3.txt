@@ -1,0 +1,7 @@
+git checkout C4
+git rebase -i HEAD~3
+git checkout C5
+git rebase -i HEAD~4
+git branch -f one C2'
+git branch -f two C2''
+git branch -f three C2
